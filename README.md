@@ -1,5 +1,5 @@
 # Rahman-J-2024
-Scripts for analysis of transcriptomic data from the Rahman et al. paper in ...
+Scripts for analysis of transcriptomic data from the Rahman et al. paper in Immunity
 
 ### Repo contains:
 - microarray_analysis.R = script to replicate the microarray analysis in the paper
